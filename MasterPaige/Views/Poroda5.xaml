@@ -4,9 +4,9 @@
              x:Class="MasterPaige.Views.Poroda5">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" Margin="20">
-            <Image Source="Resources/drawable/boston.jpg"></Image>
-            <Label Text="" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
-            <Label Text="Бостонские терьеры добродушны, умны и уживчивы" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+            <Image Source="Resources/drawable/buldog.jpg"></Image>
+            <Label Text="Французский бульдог" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
+            <Label Text="Французский бульдог – маленькая собака-компаньон с добродушным характером. Питомцу требуется постоянное общение с членами семьи." TextColor="Black" HorizontalTextAlignment="Center"></Label>
             <Button x:Name="btn" Text="Подробнее(URL)" BackgroundColor="#00DA5E" Clicked="btn_Clicked">
             </Button>
         </StackLayout>

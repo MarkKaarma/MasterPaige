@@ -52,42 +52,42 @@ namespace MasterPaige
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "",
+                Text = "Французский бульдог",
                 Detail = "Топ 6 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda5)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "",
+                Text = "Боксер",
                 Detail = "Топ 5 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda6)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "",
+                Text = "Сеттер",
                 Detail = "Топ 4 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda7)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "",
+                Text = "Шарпей",
                 Detail = "Топ 3 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda8)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "",
+                Text = "Немецкая овчарка",
                 Detail = "Топ 2 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda9)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "",
+                Text = "Цвергпинчер",
                 Detail = "Топ 1 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda10)

@@ -4,9 +4,9 @@
              x:Class="MasterPaige.Views.Poroda9">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" Margin="20">
-            <Image Source="Resources/drawable/boston.jpg"></Image>
-            <Label Text="" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
-            <Label Text="Бостонские терьеры добродушны, умны и уживчивы" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+            <Image Source="Resources/drawable/nemetz.jpg"></Image>
+            <Label Text="Немецкая овчарка" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
+            <Label Text="Грамотно выдрессированная немецкая овчарка вполне может существовать в городской квартире. Но не стоит забывать о том, что это все-таки крупная порода. " TextColor="Black" HorizontalTextAlignment="Center"></Label>
             <Button x:Name="btn" Text="Подробнее(URL)" BackgroundColor="#00DA5E" Clicked="btn_Clicked">
             </Button>
         </StackLayout>

@@ -4,9 +4,9 @@
              x:Class="MasterPaige.Views.Poroda7">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" Margin="20">
-            <Image Source="Resources/drawable/boston.jpg"></Image>
-            <Label Text="" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
-            <Label Text="Бостонские терьеры добродушны, умны и уживчивы" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+            <Image Source="Resources/drawable/better.jpg"></Image>
+            <Label Text="Сеттер" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
+            <Label Text="сеттер (ирландский красный сеттер) – охотник, склонный к экстраверсии интеллектуал и адепт активного образа жизни с роскошной каштановой шерстью." TextColor="Black" HorizontalTextAlignment="Center"></Label>
             <Button x:Name="btn" Text="Подробнее(URL)" BackgroundColor="#00DA5E" Clicked="btn_Clicked">
             </Button>
         </StackLayout>

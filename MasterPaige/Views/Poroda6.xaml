@@ -4,9 +4,9 @@
              x:Class="MasterPaige.Views.Poroda6">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" Margin="20">
-            <Image Source="Resources/drawable/boston.jpg"></Image>
-            <Label Text="" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
-            <Label Text="Бостонские терьеры добродушны, умны и уживчивы" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+            <Image Source="Resources/drawable/bokser.jpg"></Image>
+            <Label Text="Боксер" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
+            <Label Text="Боксеры хорошо уживаются в квартирах и больших семьях, отлично ладят с детьми. Исторически боксеры привыкли жить на небольшой территории, и интенсивные физические нагрузки им не нужны. Двух-трех прогулок в день по 30–40 минут будет достаточно. В доме боксерам нужна теплая подстилка, так как они довольно чувствительны к холоду." TextColor="Black" HorizontalTextAlignment="Center"></Label>
             <Button x:Name="btn" Text="Подробнее(URL)" BackgroundColor="#00DA5E" Clicked="btn_Clicked">
             </Button>
         </StackLayout>

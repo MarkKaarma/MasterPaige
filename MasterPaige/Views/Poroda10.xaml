@@ -5,8 +5,8 @@
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" Margin="20">
             <Image Source="Resources/drawable/boston.jpg"></Image>
-            <Label Text="" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
-            <Label Text="Бостонские терьеры добродушны, умны и уживчивы" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+            <Label Text="Цвергпинчер" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
+            <Label Text="Несмотря на размер, карликовый пинчер – настоящая охранная собака. Эти питомцы бесстрашны, ответственны, нейтрально относятся к другим животным. В отличие от многих мелких собак, цвергпинчеры имеют крепкие нервы, выносливы и любят физические нагрузки." TextColor="Black" HorizontalTextAlignment="Center"></Label>
             <Button x:Name="btn" Text="Подробнее(URL)" BackgroundColor="#00DA5E" Clicked="btn_Clicked">
             </Button>
         </StackLayout>

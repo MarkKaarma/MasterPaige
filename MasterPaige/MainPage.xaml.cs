@@ -31,63 +31,63 @@ namespace MasterPaige
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "Бостон-терьер",
+                Text = "Английский бульдог",
                 Detail = "Топ 9 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda2)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "Бостон-терьер",
+                Text = "Йоркширский терьер",
                 Detail = "Топ 8 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda3)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "Бостон-терьер",
+                Text = "Чихуахуа",
                 Detail = "Топ 7 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda4)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "Бостон-терьер",
+                Text = "",
                 Detail = "Топ 6 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda5)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "Бостон-терьер",
+                Text = "",
                 Detail = "Топ 5 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda6)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "Бостон-терьер",
+                Text = "",
                 Detail = "Топ 4 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda7)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "Бостон-терьер",
+                Text = "",
                 Detail = "Топ 3 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda8)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "Бостон-терьер",
+                Text = "",
                 Detail = "Топ 2 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda9)
             });
             list.Add(new MasterMenuItems()
             {
-                Text = "Бостон-терьер",
+                Text = "",
                 Detail = "Топ 1 собакэнов",
                 ImagePath = "doggymain.jpg",
                 TargetPage = typeof(Views.Poroda10)

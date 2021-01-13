@@ -4,9 +4,9 @@
              x:Class="MasterPaige.Views.Poroda2">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" Margin="20">
-            <Image Source="Resources/drawable/boston.jpg"></Image>
-            <Label Text="" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
-            <Label Text="Бостонские терьеры добродушны, умны и уживчивы" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+            <Image Source="Resources/drawable/angliiskiibuldog.jpg"></Image>
+            <Label Text="Английский бульдог" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
+            <Label Text="Насколько известно, бульдог происходит с Британских островов, а название его (буквально «бычья собака») связано с использованием этих собак при травле быков." TextColor="Black" HorizontalTextAlignment="Center"></Label>
             <Button x:Name="btn" Text="Подробнее(URL)" BackgroundColor="#00DA5E" Clicked="btn_Clicked">
             </Button>
         </StackLayout>

@@ -4,9 +4,9 @@
              x:Class="MasterPaige.Views.Poroda4">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" Margin="20">
-            <Image Source="Resources/drawable/boston.jpg"></Image>
-            <Label Text="" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
-            <Label Text="Бостонские терьеры добродушны, умны и уживчивы" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+            <Image Source="Resources/drawable/chi.jpg"></Image>
+            <Label Text="Чихуахуа" Font="24" TextColor="DarkRed" HorizontalTextAlignment="Center"></Label>
+            <Label Text="Чихуахуа плохо переносят одиночество, им важно частое общение с хозяином, короткие активные прогулки" TextColor="Black" HorizontalTextAlignment="Center"></Label>
             <Button x:Name="btn" Text="Подробнее(URL)" BackgroundColor="#00DA5E" Clicked="btn_Clicked">
             </Button>
         </StackLayout>
